@@ -1,0 +1,2 @@
+merge test
+when you input hangeul, have to change encoding to utf-8
